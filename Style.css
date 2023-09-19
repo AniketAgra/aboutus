@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width:100%;
+    height:100%;
+}
+
+.info{
+    height: 100%;
+    width: 100%;
+    background-color: antiquewhite;
+}
+.head {
+    width: auto;
+    height: auto;
+    background-color:rgb(59, 55, 55);
+    color: white;
+}
+.main{
+    background-color: beige;
+}
+.details{
+    background-color:black;
+    color: white;
+}
+.foot{
+    text-align: center;
+}
+.hello{
+    background-image: url(https://unsplash.com/photos/a-black-and-white-photo-of-a-number-of-squares-09e5K8ij7ic);
+}
